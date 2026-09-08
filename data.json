@@ -441,7 +441,7 @@
       {
         "nom": "La_vague",
         "couleur": "#335b9c",
-        "total": 1000
+        "total": 0
       },
       {
         "nom": "Bouzelouf",
@@ -482,7 +482,7 @@
       },
       {
         "numéro": "2G306",
-        "points": 1000,
+        "points": 0,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },

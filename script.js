@@ -29,7 +29,7 @@ fetch("data.json")
         function afficherClasse(nomClasse) {
             document.getElementById("titre-classe").textContent = nomClasse;
             const classe = donnees[nomClasse];
-            const seuil = SEUILS[nomClasse] || 750;   // 750 par défaut si non défini
+            const seuil = SEUILS[nomClasse] || 500;   // 500 par défaut si non défini
 
             // On VIDE les vues avant de les re-remplir (sinon ça s'empile)
             vueMaisons.innerHTML = "";
