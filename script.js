@@ -47,9 +47,10 @@ fetch("data.json")
                     niveau = 4;
                 }
                 let palier = 5 - niveau;
-
+                
                 const carte = document.createElement("div");
                 carte.className = "carte-maison";
+                carte.style.backgroundColor = maison.couleur + "40";   // ← la couleur de la maison, translucide
     
                 const embleme = document.createElement("img");
                 embleme.src = "images/" + maison.nom + "_embleme.png";

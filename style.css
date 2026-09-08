@@ -36,6 +36,8 @@ body {
 }
 
 .carte-maison {
+    border-radius: 30px;
+    padding: 25px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -135,4 +137,12 @@ nav button:hover {
     top: 0;
     left: 0;
     width: 100%;
+}
+
+@media (max-width: 700px) {
+    #vue-maisons {
+        flex-direction: column;
+        align-items: center;
+        gap: 40px;
+    }
 }
