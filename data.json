@@ -1,0 +1,629 @@
+{
+  "5B": {
+    "maisons": [
+      {
+        "nom": "Pingouins_bresiliens",
+        "couleur": "#1b581b",
+        "total": 0
+      },
+      {
+        "nom": "Panthere_rose",
+        "couleur": "#bf328f",
+        "total": 0
+      },
+      {
+        "nom": "Les_11_physiciens",
+        "couleur": "#173253",
+        "total": 0
+      }
+    ],
+    "eleves": [
+      {
+        "numéro": "5B01",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B02",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B03",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B04",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B05",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B06",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B07",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B08",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B09",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B10",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B11",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B12",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B13",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B14",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B15",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B16",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B17",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B18",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B19",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B20",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B21",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B22",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B23",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B24",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B25",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B26",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B27",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B28",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B29",
+        "points": 0,
+        "maison": "Pingouins_bresiliens",
+        "couleur": "#1b581b"
+      },
+      {
+        "numéro": "5B30",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B31",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      },
+      {
+        "numéro": "5B32",
+        "points": 0,
+        "maison": "Les_11_physiciens",
+        "couleur": "#173253"
+      },
+      {
+        "numéro": "5B33",
+        "points": 0,
+        "maison": "Panthere_rose",
+        "couleur": "#bf328f"
+      }
+    ]
+  },
+  "5J": {
+    "maisons": [
+      {
+        "nom": "Team_3",
+        "couleur": "#1800ad",
+        "total": 0
+      },
+      {
+        "nom": "Miel_pops",
+        "couleur": "#e4892a",
+        "total": 0
+      },
+      {
+        "nom": "Griffondor",
+        "couleur": "#a9254d",
+        "total": 0
+      }
+    ],
+    "eleves": [
+      {
+        "numéro": "5J01",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J02",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J03",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J04",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J05",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J06",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J07",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J08",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J09",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J10",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J11",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J12",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J13",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J14",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J15",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J16",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J17",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J18",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J19",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J20",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J21",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J22",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J23",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J24",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J25",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J26",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J27",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J28",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      },
+      {
+        "numéro": "5J29",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J30",
+        "points": 0,
+        "maison": "Team_3",
+        "couleur": "#1800ad"
+      },
+      {
+        "numéro": "5J31",
+        "points": 0,
+        "maison": "Griffondor",
+        "couleur": "#a9254d"
+      },
+      {
+        "numéro": "5J32",
+        "points": 0,
+        "maison": "Miel_pops",
+        "couleur": "#e4892a"
+      }
+    ]
+  },
+  "2G3": {
+    "maisons": [
+      {
+        "nom": "Cerveaux_lents",
+        "couleur": "#e9a6a3",
+        "total": 0
+      },
+      {
+        "nom": "La_vague",
+        "couleur": "#335b9c",
+        "total": 0
+      },
+      {
+        "nom": "Bouzelouf",
+        "couleur": "#a96127",
+        "total": 0
+      }
+    ],
+    "eleves": [
+      {
+        "numéro": "2G301",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G302",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G303",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G304",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G305",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G306",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G307",
+        "points": 0,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
+      },
+      {
+        "numéro": "2G308",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G309",
+        "points": 0,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
+      },
+      {
+        "numéro": "2G310",
+        "points": 0,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
+      },
+      {
+        "numéro": "2G311",
+        "points": 0,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
+      },
+      {
+        "numéro": "2G312",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G313",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G314",
+        "points": 0,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
+      },
+      {
+        "numéro": "2G315",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G316",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G317",
+        "points": 0,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
+      },
+      {
+        "numéro": "2G318",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G319",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G320",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G321",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G322",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G323",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G324",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G325",
+        "points": 0,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
+      },
+      {
+        "numéro": "2G326",
+        "points": 0,
+        "maison": "Cerveaux_lents",
+        "couleur": "#e9a6a3"
+      },
+      {
+        "numéro": "2G327",
+        "points": 0,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
+      },
+      {
+        "numéro": "2G328",
+        "points": 0,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
+      },
+      {
+        "numéro": "2G329",
+        "points": 0,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+body {
+    background-image: url("images/background_9.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0;
+}
+
+#titre-classe {
+    background-color: rgba(255, 255, 255, 0.6);
+    border-radius: 40px;
+    padding: 7px;
+    margin: 30px;
+    text-align: center;
+    font-size: 48px;
+    font-family: serif;
+}
+
+#choix-classe {
+    display: block;
+    margin: 40px auto;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-family: serif;
+    cursor: pointer;
+}
+
+#vue-maisons {
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+
+.carte-maison {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;         
+    color: white;
+    text-align: center;
+    min-width: 150px;
+}
+
+.embleme {
+    width: 250px;
+    height: auto;
+}
+
+.plaque {
+    background-color: #888;       /* écrasé par le JS, juste un fallback */
+    color: white;
+    border-radius: 15px;
+    padding: 12px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+    margin-top: 0px;
+}
+
+nav button {
+    background-color: rgba(255, 255, 255, 0.6);
+    border: none;
+    border-radius: 20px;
+    padding: 12px 24px;
+    margin: 15px;
+    margin-top: -10px;
+    margin-left: 35px;
+    font-size: 16px;
+    font-family: serif;
+    cursor: pointer;
+    color: #333;
+}
+
+nav button:hover {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+#vue-eleves {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.ligne-eleve {
+    display: flex;
+    gap: 15px;                /* l'espace entre la pastille du rang et le reste */
+    margin-bottom: 10px;
+    background-color: transparent;   /* la ligne elle-même n'a plus de couleur */
+    padding: 0;
+}
+
+.bloc-rang {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 12px 20px;
+    font-weight: bold;
+    font-size: 22px;
+    color: white;
+    min-width: 30px;
+}
+.bloc-infos {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;             /* prend tout l'espace restant */
+    border-radius: 15px;
+    padding: 12px 20px;
+    color: white;
+    font-family: serif;
+    font-size: 18px;
+}
+
+.numero-eleve {
+    flex-grow: 1;             /* pousse les points à droite */
+}
+
+.points-eleve {
+    font-weight: bold;
+}
+
+.fiole {
+    position: relative;
+    width: 250px;
+    height: 250px; 
+    margin: 0 auto;
+}
+
+
+.calque-fiole {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
