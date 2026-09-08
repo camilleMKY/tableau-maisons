@@ -436,7 +436,7 @@
       {
         "nom": "Cerveaux_lents",
         "couleur": "#e9a6a3",
-        "total": 3000
+        "total": 0
       },
       {
         "nom": "La_vague",
@@ -452,7 +452,7 @@
     "eleves": [
       {
         "numéro": "2G301",
-        "points": 3000,
+        "points": 0,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
