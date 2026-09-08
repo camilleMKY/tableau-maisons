@@ -90,7 +90,7 @@ nav button:hover {
     display: flex;
     gap: 15px;                /* l'espace entre la pastille du rang et le reste */
     margin-bottom: 10px;
-    background-color: transparent;   /* la ligne elle-même n'a plus de couleur */
+    background-color: transparent; 
     padding: 0;
 }
 
@@ -144,5 +144,10 @@ nav button:hover {
         flex-direction: column;
         align-items: center;
         gap: 40px;
+    }
+
+    #vue-eleves {
+        max-width: 80%;
+        margin: 0 auto;
     }
 }
