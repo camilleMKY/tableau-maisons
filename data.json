@@ -631,17 +631,17 @@
       {
         "nom": "Baetmanne",
         "couleur": "#fecd06",
-        "total": 0
+        "total": 10
       },
       {
         "nom": "Synetron",
         "couleur": "#6ca840",
-        "total": 0
+        "total": 10
       },
       {
         "nom": "Les_chercheurs_sans_blouse",
         "couleur": "#5541b5",
-        "total": 0
+        "total": 10
       }
     ],
     "eleves": [
@@ -677,7 +677,7 @@
       },
       {
         "numéro": "1G106",
-        "points": 0,
+        "points": 10,
         "maison": "Baetmanne",
         "couleur": "#fecd06"
       },
@@ -779,13 +779,13 @@
       },
       {
         "numéro": "1G123",
-        "points": 0,
+        "points": 10,
         "maison": "Synetron",
         "couleur": "#6ca840"
       },
       {
         "numéro": "1G124",
-        "points": 0,
+        "points": 10,
         "maison": "Les_chercheurs_sans_blouse",
         "couleur": "#5541b5"
       },
