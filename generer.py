@@ -14,6 +14,9 @@ COULEURS = {
     "La_vague": "#335b9c",
     "Cerveaux_lents": "#e9a6a3",
     "Bouzelouf": "#a96127",
+    "Synetron": "#6ca840",
+    "Les_chercheurs_sans_blouse": "#5541b5",
+    "Baetmanne": "#fecd06"
 }
 
 resultat = {}

@@ -630,17 +630,17 @@
     "maisons": [
       {
         "nom": "Baetmanne",
-        "couleur": "#888888",
+        "couleur": "#fecd06",
         "total": 0
       },
       {
         "nom": "Synetron",
-        "couleur": "#888888",
+        "couleur": "#6ca840",
         "total": 0
       },
       {
         "nom": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888",
+        "couleur": "#5541b5",
         "total": 0
       }
     ],
@@ -649,175 +649,175 @@
         "numéro": "1G101",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       },
       {
         "numéro": "1G102",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       },
       {
         "numéro": "1G103",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       },
       {
         "numéro": "1G104",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G105",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       },
       {
         "numéro": "1G106",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       },
       {
         "numéro": "1G107",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G108",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       },
       {
         "numéro": "1G109",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G110",
         "points": 0,
         "maison": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888"
+        "couleur": "#5541b5"
       },
       {
         "numéro": "1G111",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G112",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G113",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G114",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       },
       {
         "numéro": "1G115",
         "points": 0,
         "maison": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888"
+        "couleur": "#5541b5"
       },
       {
         "numéro": "1G116",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G117",
         "points": 0,
         "maison": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888"
+        "couleur": "#5541b5"
       },
       {
         "numéro": "1G118",
         "points": 0,
         "maison": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888"
+        "couleur": "#5541b5"
       },
       {
         "numéro": "1G119",
         "points": 0,
         "maison": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888"
+        "couleur": "#5541b5"
       },
       {
         "numéro": "1G120",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G121",
         "points": 0,
         "maison": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888"
+        "couleur": "#5541b5"
       },
       {
         "numéro": "1G122",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G123",
         "points": 0,
         "maison": "Synetron",
-        "couleur": "#888888"
+        "couleur": "#6ca840"
       },
       {
         "numéro": "1G124",
         "points": 0,
         "maison": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888"
+        "couleur": "#5541b5"
       },
       {
         "numéro": "1G125",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       },
       {
         "numéro": "1G126",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       },
       {
         "numéro": "1G127",
         "points": 0,
         "maison": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888"
+        "couleur": "#5541b5"
       },
       {
         "numéro": "1G128",
         "points": 0,
         "maison": "Les_chercheurs_sans_blouse",
-        "couleur": "#888888"
+        "couleur": "#5541b5"
       },
       {
         "numéro": "1G129",
         "points": 0,
         "maison": "Baetmanne",
-        "couleur": "#888888"
+        "couleur": "#fecd06"
       }
     ]
   }
