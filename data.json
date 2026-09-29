@@ -436,131 +436,131 @@
       {
         "nom": "Cerveaux_lents",
         "couleur": "#e9a6a3",
-        "total": 0
+        "total": 50
       },
       {
         "nom": "La_vague",
         "couleur": "#335b9c",
-        "total": 0
+        "total": 44
       },
       {
         "nom": "Bouzelouf",
         "couleur": "#a96127",
-        "total": 0
+        "total": 45
       }
     ],
     "eleves": [
       {
         "numéro": "2G301",
-        "points": 0,
+        "points": 4,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G302",
-        "points": 0,
+        "points": 5,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
         "numéro": "2G303",
-        "points": 0,
+        "points": 3,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
         "numéro": "2G304",
-        "points": 0,
+        "points": 3,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G305",
-        "points": 0,
+        "points": 4,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G306",
-        "points": 0,
+        "points": 4,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
         "numéro": "2G307",
-        "points": 0,
+        "points": 3,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
         "numéro": "2G308",
-        "points": 0,
+        "points": 7,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G309",
-        "points": 0,
+        "points": 7,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
         "numéro": "2G310",
-        "points": 0,
+        "points": 9,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
         "numéro": "2G311",
-        "points": 0,
+        "points": 5,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
         "numéro": "2G312",
-        "points": 0,
+        "points": 4,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G313",
-        "points": 0,
+        "points": 7,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
         "numéro": "2G314",
-        "points": 0,
+        "points": 6,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
         "numéro": "2G315",
-        "points": 0,
+        "points": 3,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
         "numéro": "2G316",
-        "points": 0,
+        "points": 1,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G317",
-        "points": 0,
+        "points": 1,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
         "numéro": "2G318",
-        "points": 0,
+        "points": 5,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G319",
-        "points": 0,
+        "points": 4,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
@@ -572,55 +572,55 @@
       },
       {
         "numéro": "2G321",
-        "points": 0,
+        "points": 3,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
         "numéro": "2G322",
-        "points": 0,
+        "points": 5,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
         "numéro": "2G323",
-        "points": 0,
+        "points": 3,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G324",
-        "points": 0,
+        "points": 9,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G325",
-        "points": 0,
+        "points": 3,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
         "numéro": "2G326",
-        "points": 0,
+        "points": 10,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
         "numéro": "2G327",
-        "points": 0,
+        "points": 6,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
         "numéro": "2G328",
-        "points": 0,
+        "points": 5,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
         "numéro": "2G329",
-        "points": 0,
+        "points": 10,
         "maison": "La_vague",
         "couleur": "#335b9c"
       }
