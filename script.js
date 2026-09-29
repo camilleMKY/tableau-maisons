@@ -4,8 +4,9 @@ fetch("data.json")
 
         const SEUILS = {
             "5J": 500,      // pleine vers 2000 pts
-            "2G3": 600,    // pleine vers 2400 pts
+            "2G3": 40,    // pleine vers 2400 pts
             "5B": 500,
+            "1G1": 600,
         };
         const select = document.getElementById("choix-classe");
         const vueMaisons = document.getElementById("vue-maisons");
