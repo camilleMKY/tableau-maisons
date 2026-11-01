@@ -9,7 +9,7 @@
       {
         "nom": "Panthere_rose",
         "couleur": "#bf328f",
-        "total": 0
+        "total": 1000
       },
       {
         "nom": "Les_11_physiciens",
@@ -38,7 +38,7 @@
       },
       {
         "numéro": "5B04",
-        "points": 0,
+        "points": 1000,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
