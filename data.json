@@ -4,7 +4,7 @@
       {
         "nom": "Pingouins_bresiliens",
         "couleur": "#1b581b",
-        "total": 1000
+        "total": 0
       },
       {
         "nom": "Panthere_rose",
@@ -20,7 +20,7 @@
     "eleves": [
       {
         "numéro": "5B01",
-        "points": 1000,
+        "points": 0,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
