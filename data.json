@@ -446,7 +446,7 @@
       {
         "nom": "Bouzelouf",
         "couleur": "#a96127",
-        "total": 334
+        "total": 361
       }
     ],
     "eleves": [
@@ -623,6 +623,12 @@
         "points": 52,
         "maison": "La_vague",
         "couleur": "#335b9c"
+      },
+      {
+        "numéro": null,
+        "points": 27,
+        "maison": "Bouzelouf",
+        "couleur": "#a96127"
       }
     ]
   },
