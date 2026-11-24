@@ -559,12 +559,6 @@
         "couleur": "#e9a6a3"
       },
       {
-        "numéro": "2G319",
-        "points": 27,
-        "maison": "La_vague",
-        "couleur": "#335b9c"
-      },
-      {
         "numéro": "2G320",
         "points": 27,
         "maison": "La_vague",
@@ -572,60 +566,66 @@
       },
       {
         "numéro": "2G321",
-        "points": 21,
+        "points": 27,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
         "numéro": "2G322",
-        "points": 34,
+        "points": 21,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
         "numéro": "2G323",
+        "points": 34,
+        "maison": "La_vague",
+        "couleur": "#335b9c"
+      },
+      {
+        "numéro": "2G324",
         "points": 27,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
-        "numéro": "2G324",
+        "numéro": "2G325",
         "points": 52,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
-        "numéro": "2G325",
+        "numéro": "2G326",
         "points": 30,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
-        "numéro": "2G326",
+        "numéro": "2G327",
         "points": 51,
         "maison": "Cerveaux_lents",
         "couleur": "#e9a6a3"
       },
       {
-        "numéro": "2G327",
+        "numéro": "2G328",
         "points": 34,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
-        "numéro": "2G328",
+        "numéro": "2G329",
         "points": 30,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
       },
       {
-        "numéro": "2G329",
+        "numéro": "2G330",
         "points": 52,
         "maison": "La_vague",
         "couleur": "#335b9c"
       },
       {
-        "numéro": null,
+        "numéro": "2G319",
         "points": 27,
         "maison": "Bouzelouf",
         "couleur": "#a96127"
