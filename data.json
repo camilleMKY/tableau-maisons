@@ -4,215 +4,215 @@
       {
         "nom": "Pingouins_bresiliens",
         "couleur": "#1b581b",
-        "total": 0
+        "total": 302
       },
       {
         "nom": "Panthere_rose",
         "couleur": "#bf328f",
-        "total": 0
+        "total": 322
       },
       {
         "nom": "Les_11_physiciens",
         "couleur": "#173253",
-        "total": 0
+        "total": 360
       }
     ],
     "eleves": [
       {
         "numéro": "5B01",
-        "points": 0,
+        "points": 24,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B02",
-        "points": 0,
+        "points": 27,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B03",
-        "points": 0,
+        "points": 27,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B04",
-        "points": 0,
+        "points": 35,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B05",
-        "points": 0,
+        "points": 33,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B06",
-        "points": 0,
+        "points": 27,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B07",
-        "points": 0,
+        "points": 39,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B08",
-        "points": 0,
+        "points": 26,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B09",
-        "points": 0,
+        "points": 36,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B10",
-        "points": 0,
+        "points": 27,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B11",
-        "points": 0,
+        "points": 30,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B12",
-        "points": 0,
+        "points": 12,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B13",
-        "points": 0,
+        "points": 15,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B14",
-        "points": 0,
+        "points": 37,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B15",
-        "points": 0,
+        "points": 33,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B16",
-        "points": 0,
+        "points": 29,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B17",
-        "points": 0,
+        "points": 35,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B18",
-        "points": 0,
+        "points": 40,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B19",
-        "points": 0,
+        "points": 30,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B20",
-        "points": 0,
+        "points": 37,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B21",
-        "points": 0,
+        "points": 21,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B22",
-        "points": 0,
+        "points": 30,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B23",
-        "points": 0,
+        "points": 25,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B24",
-        "points": 0,
+        "points": 34,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B25",
-        "points": 0,
+        "points": 34,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B26",
-        "points": 0,
+        "points": 33,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B27",
-        "points": 0,
+        "points": 32,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B28",
-        "points": 0,
+        "points": 37,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B29",
-        "points": 0,
+        "points": 12,
         "maison": "Pingouins_bresiliens",
         "couleur": "#1b581b"
       },
       {
         "numéro": "5B30",
-        "points": 0,
+        "points": 22,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B31",
-        "points": 0,
+        "points": 28,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       },
       {
         "numéro": "5B32",
-        "points": 0,
+        "points": 38,
         "maison": "Les_11_physiciens",
         "couleur": "#173253"
       },
       {
         "numéro": "5B33",
-        "points": 0,
+        "points": 39,
         "maison": "Panthere_rose",
         "couleur": "#bf328f"
       }
